@@ -1,7 +1,7 @@
 def gifts(day)
 	case day
 		when 1
-    	"partridge in a pear tree\n"
+    			"partridge in a pear tree\n"
 		when 2
 			"turtle dove\n" * 2
 		when 3
